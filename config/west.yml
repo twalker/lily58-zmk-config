@@ -1,4 +1,4 @@
-manifest:
+manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
